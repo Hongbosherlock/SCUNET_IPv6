@@ -14,7 +14,7 @@
 
 前往 http://test-ipv6.com/
 
-![](http://ww1.sinaimg.cn/large/006w4HKkly1g2cszjhbeoj316o0m4wkb.jpg)
+![](1.png)
 
 若有2001:250:2003:为前缀的IPv6地址，说明已正常连接了我校IPv6网。
 
