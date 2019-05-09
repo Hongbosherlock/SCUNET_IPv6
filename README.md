@@ -27,6 +27,17 @@
 
 ### Linux 环境
 
+利用包管理工具安装**isatapd**，例如ubuntu下：
+```bash
+sudo apt install isatapd
+```
 
+然后使用isatapd：
+
+```bash
+sudo isatapd 202.115.39.98
+```
+
+保持该shell运行，ctrl + c 退出
 
 ### Mac OS X环境
